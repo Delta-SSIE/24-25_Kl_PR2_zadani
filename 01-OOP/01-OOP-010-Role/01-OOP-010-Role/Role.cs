@@ -1,0 +1,1 @@
+// sem přijde kód vaší třídy
